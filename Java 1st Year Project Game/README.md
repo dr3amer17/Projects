@@ -1,1 +1,1 @@
-My 1st Year Computer Science Unievrsity Project!
+My 1st Year Computer Science University Project!
